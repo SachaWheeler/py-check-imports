@@ -4,7 +4,7 @@ A Python CLI tool to scan a Python file or an entire directory for imports that 
 Clean up your code by removing unused or duplicate dependencies, making it more readable and efficient.
 [See Limitations](#limitations)
 
-Edit: while this works, ruff is a more comprehensive tool that can also check for unused imports, duplicate imports, and many other code quality issues. Consider using [ruff]
+Edit: while this works, ruff is a much more comprehensive tool that can also check for unused imports, duplicate imports, and many other code quality issues. You should use [ruff](https://pypi.org/project/ruff/)
 
 ## Features
 
